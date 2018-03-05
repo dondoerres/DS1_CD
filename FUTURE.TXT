@@ -1,0 +1,101 @@
+Deep Space 1: Rocketing to the Future
+
+
+by Marc D. Rayman, Ph.D.
+Deep Space 1 Deputy Mission Manager and Chief Mission Engineer
+Jet Propulsion Laboratory
+
+Science fiction and space enthusiasts as well as space scientists have long
+dreamed of having routine access to space, a ready supply of probes to
+greet unexpected and enticing visitors to our neighborhood (such as comet
+Hale-Bopp), and smart robots investigating the universe.  That dream comes
+one step closer to reality this autumn, when NASA/JPL rockets toward the
+future with the launch of Deep Space 1 (DS1), humankind's next venture into
+the solar system.
+
+Space science missions have made many astonishing and impressive
+discoveries, but often at great expense.  NASA and the United States cannot
+afford to conduct space exploration the way it has been done in recent
+decades.  We now look forward to a future in which rather than launching a
+spacecraft into deep space every year or so, they will be launched every
+month.  If one or two of them fail, although it will be disappointing, the
+loss will represent a small portion of our effort to know the cosmos.
+
+But how do we meet the challenges of such a future?  We need to learn to
+build spacecraft quickly, to make them small enough to be launched on
+inexpensive rockets, and fast enough to reach their destinations while the
+questions they are addressing are still relevant.  The spacecraft must also
+be sufficiently sophisticated to collect the exciting information we seek,
+and smart enough to handle unexpected situations without all of them tying
+up the precious and expensive Deep Space Network.  Part of the answer is to
+introduce advanced technologies.  Unfortunately, that means risk, because
+there will always be a lingering uncertainty over whether the new systems
+will work in space the way we predict.  As a result, revolutionary
+technologies often have inordinate waits before finding their way aboard
+space missions.
+
+NASA's New Millennium program is chartered to validate selected high-risk
+technologies needed to make space exploration less expensive yet even more
+exciting and productive.  Advanced technologies chosen for validation on
+DS1, the first of the program's space flights, include ion propulsion,
+autonomous systems, advanced microelectronics and telecommunications
+devices, and other exotic systems. Throughout the flight, the technology
+payload will be rigorously exercised so that later space missions will be
+able to use the new capabilities with confidence.  This bold mission will
+take risks so that future missions do not have to.
+
+Even if a technology fails on this ambitious flight, we may still help
+prevent later missions from taking too much risk.  In fact, already in the
+39 months between conception and launch (unprecedentedly short for US
+planetary missions in the modern era), we have solved a host of problems
+that would never have been addressed if the new technologies remained in
+the realm of paper studies and laboratory tests.  This has already
+contributed to their use in future missions.
+
+As you might imagine, working on a high-risk mission with such a short
+schedule and a tight cost cap can be stressful.  I find, however, that the
+personal rewards are quite high.  In my role as Chief Mission Engineer and
+Deputy Mission Manager, I get to be involved in nearly all aspects of the
+project.  For a lifelong space buff, this is a dream come true!
+
+My position allows me to combine my many years of formal training in
+physics with my even longer personal studies of all aspects of space
+exploration.  I chose to abandon basic scientific research so that I could
+get paid to pursue my hobby at JPL.  Now I find that, indeed, I can play a
+meaningful role in a thrilling space mission that truly will make an
+important difference as we strive to probe the universe. At the same time,
+I feel proud that a significant goal of my work is to protect taxpayers'
+money.  Although NASA receives only a small fraction of what your family
+and mine pay in taxes, it gratifies me to know that my work contributes to
+spending that moneywisely, trying to get the maximum benefit from each
+dollar invested.
+
+During its journey, DS1 will visit asteroid 1992 KD and perhaps comets
+Wilson-Harrington and Borrelly, performing tests of its advanced science
+instruments at each appointment.  Conducting science will prove that the
+technologies are compatible with the demands of future science missions and
+will ensure that this rare opportunity to encounter such a variety of
+fascinating solar system bodies during a short mission will be fully
+exploited.
+
+Ion propulsion will permit faster access to important and fascinating
+destinations in the solar system.  Autonomy will reduce the cost of
+operating such missions.  Miniaturized systems will make spacecraft smaller
+and less expensive, while new highly capable instruments will make
+sophisticated measurements with small packages.  Such revolutionary
+technologies, and others to be validated on subsequent New Millennium
+missions, will be among the key tools NASA will need to begin a new era in
+space exploration.  By taking risk with missions such as Deep Space 1, NASA
+is preparing for the time when humankind's robotic (and, eventually, human)
+emissaries to space are routinely reporting back inspiring discoveries from
+throughout the solar system and beyond.
+
+I invite you to share the DS1 team's excitement as we try to make the
+future happen and turn fantasy into reality.  Visit
+http://nmp.jpl.nasa.gov/ds1.
+
+
+
+(Updated from an article submitted to Final Frontier and published in June
+1998.)
+
