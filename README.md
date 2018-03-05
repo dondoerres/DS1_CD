@@ -9,7 +9,7 @@ This is a copy of the contents of the CD put together by Spectrum Astro, the pri
 for the spacecraft and portions of the spacecraft electronics.  
 I was responsible for the creation of the original CD.
 These files represent the contents of the original CD.
-Not include from the original cd are the CD autostart files and
+Not included from the original cd are the CD autostart files and
 an installer for a 1998 vintage Acrobat Reader.
 
 I see no particular copyright notices on any of the material, 
