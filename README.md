@@ -1,2 +1,4 @@
 # DS1_CD
-A copy a CD carried by the DS1 spacecraft
+This is a copy of a CD carried by the DS1 spacecraft.
+(Think of the Voyager mission gold record updated with 1998 technology)
+
